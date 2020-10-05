@@ -8,3 +8,8 @@ The training took about 17 hours. Optimizer used for this project was RMSprop wi
 Used 2600 photos for training and 340 photos for validation.
 
 The accuray on the validation set is 89%.
+
+![Alt Text](https://github.com/CalciumNitrade/Backlight-Lens-Classifier/blob/main/train.png)
+![Alt Text](https://github.com/CalciumNitrade/Backlight-Lens-Classifier/blob/main/validat.png)
+
+Due restrictions, I am not able to share the train and validation data but I added some test photos to the folder.
